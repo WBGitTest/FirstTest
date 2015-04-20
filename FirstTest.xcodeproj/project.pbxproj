@@ -16,6 +16,7 @@
 		6A6779DC1AE4E41900007C70 /* FirstTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6779DB1AE4E41900007C70 /* FirstTestTests.m */; };
 		6A6779E71AE4E49700007C70 /* WBTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6779E61AE4E49700007C70 /* WBTestViewController.m */; };
 		6AB4A9CF1AE4EBDA00E411A7 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AB4A9CE1AE4EBDA00E411A7 /* SecondViewController.m */; };
+		6AB4A9D21AE4ED9200E411A7 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AB4A9D11AE4ED9200E411A7 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		6A6779E61AE4E49700007C70 /* WBTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBTestViewController.m; sourceTree = "<group>"; };
 		6AB4A9CD1AE4EBDA00E411A7 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		6AB4A9CE1AE4EBDA00E411A7 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		6AB4A9D01AE4ED9200E411A7 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		6AB4A9D11AE4ED9200E411A7 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 				6A6779E61AE4E49700007C70 /* WBTestViewController.m */,
 				6AB4A9CD1AE4EBDA00E411A7 /* SecondViewController.h */,
 				6AB4A9CE1AE4EBDA00E411A7 /* SecondViewController.m */,
+				6AB4A9D01AE4ED9200E411A7 /* ThirdViewController.h */,
+				6AB4A9D11AE4ED9200E411A7 /* ThirdViewController.m */,
 			);
 			path = FirstTest;
 			sourceTree = "<group>";
@@ -231,6 +236,7 @@
 			files = (
 				6AB4A9CF1AE4EBDA00E411A7 /* SecondViewController.m in Sources */,
 				6A6779C81AE4E41900007C70 /* ViewController.m in Sources */,
+				6AB4A9D21AE4ED9200E411A7 /* ThirdViewController.m in Sources */,
 				6A6779E71AE4E49700007C70 /* WBTestViewController.m in Sources */,
 				6A6779C51AE4E41900007C70 /* AppDelegate.m in Sources */,
 				6A6779C21AE4E41900007C70 /* main.m in Sources */,
